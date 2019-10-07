@@ -1,4 +1,5 @@
 for conflic error
 from smruti pc
 from smruti branch
-
+this is a file to test conflict error
+hi
